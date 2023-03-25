@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Navnath Phapale",
+        "contact": "+91 9876543210",
+        "contact2": "+91 9876543210",
+        "email": "email.email@email.com",
+        "gender": "Male",
+        "state": "Hawaii"
+    },
+    {
+        "id": 2,
+        "name": "Navnath Phapale",
+        "contact": "+91 9876543210",
+        "contact2": "+91 9876543210",
+        "email": "email.email@email.com",
+        "gender": "Male",
+        "state": "Hawaii"
+    },
+    {
+        "id": 3,
+        "name": "Navnath Phapale",
+        "contact": "+91 9876543210",
+        "contact2": "+91 9876543210",
+        "email": "email.email@email.com",
+        "gender": "Male",
+        "state": "Hawaii"
+    },
+    {
+        "id": 4,
+        "name": "Navnath Phapale",
+        "contact": "+91 9876543210",
+        "contact2": "+91 9876543210",
+        "email": "email.email@email.com",
+        "gender": "Male",
+        "state": "Hawaii"
+    },
+    {
+        "id": 5,
+        "name": "Navnath Phapale",
+        "contact": "+91 9876543210",
+        "contact2": "+91 9876543210",
+        "email": "email.email@email.com",
+        "gender": "Male",
+        "state": "Hawaii"
+    }
+]

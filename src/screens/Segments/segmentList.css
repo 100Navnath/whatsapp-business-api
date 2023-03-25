@@ -1,0 +1,58 @@
+.stacked-images div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    margin-right: -10px;
+    border: 1px solid #fff;
+    /* background: rgb(213, 234, 253); */
+    letter-spacing: .03rem;
+    font-size: 10px;
+    /* color: #1273eb; */
+}
+
+.stacked-images .blue {
+    background: #e1f6f4;
+    color: #075E54;
+}
+
+.stacked-images .yellow {
+    background: #f7e6b5;
+    color: #cc9a09;
+}
+
+.stacked-images .red {
+    background: #ffdbdb;
+    color: #de3e3e;
+}
+
+.stacked-images .green {
+    background: #d8eccb;
+    color: #70ad46;
+}
+
+.stacked-images .pink {
+    background: #ffe2e7;
+    color: #e24f69;
+}
+
+.stacked-images .orange {
+    background: #fde8d9;
+    color: #e6680e;
+}
+
+.stacked-images .violet {
+    background: #f2e2ff;
+    color: #8936ca;
+}
+
+.stacked-images .brown {
+    background: #e8dad7;
+    color: #a7644a;
+}

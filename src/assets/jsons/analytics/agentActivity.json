@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "countryCode": "+91",
+        "phoneNumber": "9876543210",
+        "assignedNumbers": [
+            {
+                "countryCode": "+91",
+                "phoneNumber": "9876543210"
+            }
+        ],
+        "smsSent": 2191,
+        "smsReceived": 1288,
+        "smsFailed": 233
+    },
+    {
+        "id": 2,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "countryCode": "+91",
+        "phoneNumber": "9876543210",
+        "assignedNumbers": [
+            {
+                "countryCode": "+91",
+                "phoneNumber": "9876543210"
+            }
+        ],
+        "smsSent": 2191,
+        "smsReceived": 1288,
+        "smsFailed": 233
+    },
+    {
+        "id": 3,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "countryCode": "+91",
+        "phoneNumber": "9876543210",
+        "assignedNumbers": [
+            {
+                "countryCode": "+91",
+                "phoneNumber": "9876543210"
+            }
+        ],
+        "smsSent": 2191,
+        "smsReceived": 1288,
+        "smsFailed": 233
+    },
+    {
+        "id": 4,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "countryCode": "+91",
+        "phoneNumber": "9876543210",
+        "assignedNumbers": [
+            {
+                "countryCode": "+91",
+                "phoneNumber": "9876543210"
+            }
+        ],
+        "smsSent": 2191,
+        "smsReceived": 1288,
+        "smsFailed": 233
+    },
+    {
+        "id": 5,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "countryCode": "+91",
+        "phoneNumber": "9876543210",
+        "assignedNumbers": [
+            {
+                "countryCode": "+91",
+                "phoneNumber": "9876543210"
+            }
+        ],
+        "smsSent": 2191,
+        "smsReceived": 1288,
+        "smsFailed": 233
+    }
+]

@@ -1,0 +1,48 @@
+//backEnd to frontEnd
+{
+    "excelSheetHeaders": [
+        {
+            "headerId": 0,
+            "headerName": "FirstName"
+        },
+        {
+            "headerId": 1,
+            "headerName": "LastName"
+        },
+        {
+            "headerId": 2,
+            "headerName": "Email"
+        },
+        {
+            "headerId": 3,
+            "headerName": "Contact No."
+        },
+        {
+            "headerId": 4,
+            "headerName": "Secondary contact no."
+        }
+    ]
+}
+//frontEnd to backEnd
+{
+    "firstName": {
+        "headerId": 0,
+        "headerName": "Fname"
+    },
+    "lastName": {
+        "headerId": 1,
+        "headerName": "Lname"
+    },
+    "email": {
+        "headerId": 1,
+        "headerName": "emailId"
+    },
+    "phoneNo": {
+        "headerId": 1,
+        "headerName": "contact No."
+    },
+    "secondaryContact": {
+        "headerId": 1,
+        "headerName": "contact No. 2"
+    },
+}

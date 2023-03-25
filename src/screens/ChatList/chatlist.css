@@ -1,0 +1,17 @@
+.text-field {
+    width: 100%;
+    margin-bottom: 30px;
+    font-size: 12px !important;
+}
+
+.new-chat-send-btn-active {
+    width: 90px;
+    height: 32px;
+    background-color: #28a745 !important;
+    color: #FFF !important;
+    font-size: 12px !important;
+}
+
+.new-chat-send-btn-disabled {
+    background-color: #ddd !important;
+}

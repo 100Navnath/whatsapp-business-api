@@ -1,0 +1,21 @@
+{
+    "count": 2,
+    "contacts": [
+        {
+            "id": 1,
+            "name": "Fname Lname",
+            "phoneNo": "9876543210",
+            "countryCode": "+91",
+            "secondaryPhoneNo": "9876543210",
+            "email": "email@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Navnath Phapale",
+            "phoneNo": "1234567890",
+            "countryCode": "+1",
+            "secondaryPhoneNo": "123459876",
+            "email": "navnath@werqlabs.com"
+        }
+    ]
+}

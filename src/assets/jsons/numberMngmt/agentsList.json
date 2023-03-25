@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "designation": "Developer",
+        "isAssign": true
+    },
+    {
+        "id": 2,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "designation": "Developer",
+        "isAssign": false
+    },
+    {
+        "id": 3,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "designation": "Developer",
+        "isAssign": false
+    },
+    {
+        "id": 4,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "designation": "Developer",
+        "isAssign": false
+    },
+    {
+        "id": 5,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "designation": "Developer",
+        "isAssign": false
+    },
+    {
+        "id": 6,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "designation": "Developer",
+        "isAssign": false
+    },
+    {
+        "id": 7,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "designation": "Developer",
+        "isAssign": false
+    },
+    {
+        "id": 8,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "designation": "Developer",
+        "isAssign": false
+    },
+    {
+        "id": 9,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "designation": "Developer",
+        "isAssign": false
+    },
+    {
+        "id": 10,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "designation": "Developer",
+        "isAssign": false
+    }
+]

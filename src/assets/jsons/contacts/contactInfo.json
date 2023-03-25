@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "firstName": "Fname",
+    "lastName": "Lname",
+    "email": "email@email.com",
+    "contact": "+91 9876543210",
+    "secondaryContact": "+91 9876543210",
+    "state": "Maharastra",
+    "gender": "male"
+}

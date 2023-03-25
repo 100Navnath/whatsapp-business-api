@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Fname Lname",
+        "department": "Development",
+        "role": "Admin",
+        "designation": "Developer",
+        "numbersAssigned": 4,
+        "email": "email.email@email.com",
+        "contact": "9876543210"
+    },
+    {
+        "id": 2,
+        "name": "Fname Lname",
+        "department": "Development",
+        "role": "Admin",
+        "designation": "Developer",
+        "numbersAssigned": 4,
+        "email": "email.email@email.com",
+        "contact": "9876543210"
+    },
+    {
+        "id": 3,
+        "name": "Fname Lname",
+        "department": "Development",
+        "role": "Admin",
+        "designation": "Developer",
+        "numbersAssigned": 4,
+        "email": "email.email@email.com",
+        "contact": "9876543210"
+    },
+    {
+        "id": 4,
+        "name": "Fname Lname",
+        "department": "Development",
+        "role": "Admin",
+        "designation": "Developer",
+        "numbersAssigned": 4,
+        "email": "email.email@email.com",
+        "contact": "9876543210"
+    },
+    {
+        "id": 5,
+        "name": "Fname Lname",
+        "department": "Development",
+        "role": "Admin",
+        "designation": "Developer",
+        "numbersAssigned": 4,
+        "email": "email.email@email.com",
+        "contact": "9876543210"
+    },
+    {
+        "id": 6,
+        "name": "Fname Lname",
+        "department": "Development",
+        "role": "Admin",
+        "designation": "Developer",
+        "numbersAssigned": 4,
+        "email": "email.email@email.com",
+        "contact": "9876543210"
+    },
+    {
+        "id": 7,
+        "name": "Fname Lname",
+        "department": "Development",
+        "role": "Admin",
+        "designation": "Developer",
+        "numbersAssigned": 4,
+        "email": "email.email@email.com",
+        "contact": "9876543210"
+    },
+    {
+        "id": 8,
+        "name": "Fname Lname",
+        "department": "Development",
+        "role": "Admin",
+        "designation": "Developer",
+        "numbersAssigned": 4,
+        "email": "email.email@email.com",
+        "contact": "9876543210"
+    },
+    {
+        "id": 9,
+        "name": "Fname Lname",
+        "department": "Development",
+        "role": "Admin",
+        "designation": "Developer",
+        "numbersAssigned": 4,
+        "email": "email.email@email.com",
+        "contact": "9876543210"
+    },
+    {
+        "id": 10,
+        "name": "Fname Lname",
+        "department": "Development",
+        "role": "Admin",
+        "designation": "Developer",
+        "numbersAssigned": 4,
+        "email": "email.email@email.com",
+        "contact": "9876543210"
+    }
+]

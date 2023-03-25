@@ -1,0 +1,63 @@
+.add-contact-wrapper {
+    height: 100%;
+    padding: 20px;
+    background-color: #f5f8fd;
+}
+
+.upload-csv-title {
+    display: flex;
+    color: #074e34;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.map-headers-wrapper {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    /* justify-content: space-around; */
+    align-items: center;
+    /* justify-content: center; */
+    flex-wrap: wrap;
+}
+
+.map-headers-wrapper .container {
+    width: '100%';
+    /* background-color: #ddd; */
+}
+
+.input-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 10px;
+}
+
+.input-title {
+    min-width: 120px;
+    width: fit-content;
+    font-size: 12px;
+    white-space: nowrap;
+    margin-right: 10px
+}
+
+.input-dropdown {
+    margin: 0px;
+}
+
+.add-contact-wrapper .submit-button {
+    height: 35px;
+    background-color: #1273eb;
+    color: #FFF;
+}
+
+.add-contact-wrapper .submit-button:hover {
+    background-color: #FFF;
+    color: #1273eb;
+}
+
+.add-contact-wrapper .btn-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}

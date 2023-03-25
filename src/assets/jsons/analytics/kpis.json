@@ -1,0 +1,34 @@
+{
+    "messages": {
+        "sent": 5340,
+        "received": 10430,
+        "faild": 2700
+    },
+    "kpi": {
+        "users": {
+            "count": 506,
+            "progress":[1,1,2,4,6,7],
+            "percent":"2.1%"
+        },
+        "credits": {
+            "count": 506,
+            "progress":[1,3,2,4,6,7],
+            "percent":"2.1%"
+        },
+        "monthlyCredits": {
+            "count": 568,
+            "progress":[2,1,2,4,6,7],
+            "percent":"2.1%"
+        },
+        "contacts": {
+            "count": 568,
+            "progress":[1,1,2,4,6,7],
+            "percent":"2.1%"
+        },
+        "numbers": {
+            "count": 568,
+            "progress":[1,1,2,4,6,7],
+            "percent":"2.1%"
+        }
+    }
+}

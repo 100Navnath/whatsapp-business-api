@@ -1,0 +1,23 @@
+.templates-wrapper {
+    position: relative;
+    min-height: 100%;
+    height: fit-content;
+    padding: 10px;
+    background-color: #f5f8fd;
+    display: block;
+}
+
+.create-template-btn {
+    background-color: #075E54 !important;
+    color: #FFF !important;
+    font-size: 13px !important;
+    text-transform: none !important;
+    margin-right: 10px !important;
+}
+
+.templates-container {
+    height: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}

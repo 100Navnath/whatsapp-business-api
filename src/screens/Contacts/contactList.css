@@ -1,0 +1,136 @@
+.contact-wrapper {
+    display: flex;
+    flex-direction: row;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    align-items: center;
+    padding-bottom: 5px;
+    background-color: #FFF;
+    border-radius: 5px;
+    /* border-bottom: 1px solid #dbdbdb; */
+    box-shadow: 1px 1px 3px rgb(239, 237, 237);
+    justify-content: space-between;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 5px
+}
+
+.contact-wrapper .blue {
+    background-color: #d5eafd !important;
+    color: #2d8dec !important;
+}
+
+.contact-wrapper .green {
+    background: #e1f6f4 !important;
+    color: #075E54 !important;
+}
+
+.contact-wrapper:hover {
+    background-color: #e8f1fc;
+}
+
+/* .contact-avatar {
+    display: flex;
+    margin: 0 1rem 0 0;
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #1273eb;
+    color: #FFF;
+    align-items: center;
+    justify-content: center;
+} */
+
+.contact-avatar {
+    width: 50px !important;
+    height: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    font-size: 12px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 15px 0 0;
+    background-color: #1273eb;
+    color: #FFF;
+}
+
+.contact-wrapper .name {
+    font-size: 14px;
+    color: #075E54;
+    /* font-weight: bold; */
+}
+
+.contact-wrapper .designation {
+    font-size: 11px;
+    color: #555;
+}
+
+.message {
+    font-size: 10px;
+    color: #111;
+}
+
+.received-msg-icon {
+    font-size: 12px !important;
+    color: #1273eb;
+    /* margin-right: 10px; */
+    font-weight: bold;
+}
+
+.timestamp {
+    width: 100%;
+    font-size: 8px;
+    color: #666;
+    text-align: right;
+}
+
+.add-contact {
+    padding: 5px;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #1273eb !important;
+    color: #fff !important;
+    width: fit-content;
+    align-self: 'center';
+    border-radius: 5;
+}
+
+.contact-number {
+    font-size: 9px;
+    color: #666;
+    margin-bottom: 3px;
+}
+
+.input-placeholder {
+    position: absolute;
+    box-sizing: border-box;
+    color: #000;
+    background: #ffffff;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    font-size: .7rem;
+    font-weight: 500;
+    top: -12px;
+    left: 12px;
+    padding: 2px 5px;
+    z-index: 1;
+    text-align: left;
+}
+
+.date-picker {
+    outline-width: 0px;
+    width: 200px;
+    border-radius: 5px;
+    /* border: 1px solid #d8def0; */
+}
+
+.react-date-picker__wrapper {
+    border: 1px solid #d8def0 !important;
+}

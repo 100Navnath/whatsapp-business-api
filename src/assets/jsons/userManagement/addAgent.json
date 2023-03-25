@@ -1,0 +1,9 @@
+{
+    "loggedInId": 1,
+    "name": "Fname Lname",
+    "email": "email.email@email.com",
+    "contact": "9876543210",
+    "department": "Development",
+    "roleId": 1,
+    "designation": "Developer"
+}

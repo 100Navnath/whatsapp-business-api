@@ -1,0 +1,35 @@
+.bulk-sms-wrapper {
+    height: 100%;
+    padding: 10px;
+    background-color: #f5f8fd;
+}
+
+.segment-wrapper {
+    height: fit-content;
+    margin-left: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.segment-wrapper .segment {
+    display: flex;
+    position: relative;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    background-color: #FFF;
+    color: #333;
+    font-size: 12px;
+    padding: 5px;
+    box-shadow: 1px 1px 1px 1px #ddd;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.segment-wrapper .segment .icon {
+    font-size: 14px;
+    color: #1273eb;
+    cursor: pointer;
+}

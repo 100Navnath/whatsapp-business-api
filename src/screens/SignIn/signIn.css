@@ -1,0 +1,35 @@
+.forgot-password-btn {
+    outline-width: 0px !important;
+    height: 20px !important;
+}
+
+.actions .MuiButton-text {
+    text-decoration: underline !important;
+    font-size: 12px !important;
+    color: #333 !important;
+    text-transform: none !important;
+    outline-width: 0px !important;
+}
+
+.secondary-action .MuiButton-text {
+    text-decoration: underline !important;
+    font-size: 12px !important;
+    color: #075E54 !important;
+    text-transform: none !important;
+    outline-width: 0px !important;
+}
+
+.MuiButton-root {
+    min-width: fit-content !important;
+}
+
+.logo-container {
+    height: 50px;
+    width: 50px;
+    background-color: #FFF;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}

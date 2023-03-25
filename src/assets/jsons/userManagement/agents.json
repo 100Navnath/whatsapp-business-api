@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "firstName": "Fname",
+        "lastName": "LName",
+        "contactNumber": "9876543210",
+        "department": "Development",
+        "role": "Admin",
+        "designation": "Developer",
+        "assignedNumbers": [
+            {
+                "id": 1,
+                "countryCode": "+91",
+                "contactNumber": "9876543210"
+            }
+        ],
+        "isDisabled": false
+    },
+    {
+        "id": 2,
+        "firstName": "Fname",
+        "lastName": "LName",
+        "contactNumber": "9876543210",
+        "department": "Development",
+        "role": "Admin",
+        "designation": "Developer",
+        "assignedNumbers": [
+            {
+                "id": 1,
+                "countryCode": "+91",
+                "contactNumber": "9876543210"
+            }
+        ],
+        "isDisabled": true
+    },
+    {
+        "id": 3,
+        "firstName": "Fname",
+        "lastName": "LName",
+        "contactNumber": "9876543210",
+        "department": "Development",
+        "role": "Admin",
+        "designation": "Developer",
+        "assignedNumbers": [
+            {
+                "id": 1,
+                "countryCode": "+91",
+                "contactNumber": "9876543210"
+            }
+        ],
+        "isDisabled": false
+    },
+    {
+        "id": 4,
+        "firstName": "Fname",
+        "lastName": "LName",
+        "contactNumber": "9876543210",
+        "department": "Development",
+        "role": "Admin",
+        "designation": "Developer",
+        "assignedNumbers": [
+            {
+                "id": 1,
+                "countryCode": "+91",
+                "contactNumber": "9876543210"
+            }
+        ],
+        "isDisabled": false
+    },
+    {
+        "id": 5,
+        "firstName": "Fname",
+        "lastName": "LName",
+        "contactNumber": "9876543210",
+        "department": "Development",
+        "role": "Admin",
+        "designation": "Developer",
+        "assignedNumbers": [
+            {
+                "id": 1,
+                "countryCode": "+91",
+                "contactNumber": "9876543210"
+            }
+        ],
+        "isDisabled": false
+    }
+]

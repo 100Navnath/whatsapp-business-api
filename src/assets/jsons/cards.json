@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "number": "1234567890123456",
+        "nameOnCard": "Navnath Phapale",
+        "expiry": "12/23",
+        "default": true
+    },
+    {
+        "id": 2,
+        "number": "1234567890121234",
+        "nameOnCard": "Fname Lname",
+        "expiry": "12/24",
+        "default": false
+    }
+]

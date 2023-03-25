@@ -1,0 +1,240 @@
+.cards-container {
+    display: flex;
+    margin-top: 20px;
+}
+
+.personal-details-card-header {
+    display: flex;
+    justify-content: space-between
+}
+
+.personal-details-card-body {
+    width: fit-content;
+    justify-content: space-around;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #FFF
+}
+
+.edit-btn-wrapper {
+    height: 25px;
+    background-color: #FFF !important;
+    color: #075E54 !important;
+    font-size: 10px !important;
+    border: 1px solid #075E54 !important;
+    outline-width: 0px !important;
+}
+
+.edit-btn-wrapper .icon {
+    font-size: 14px;
+    margin-left: 5px
+}
+
+.submit-button {
+    height: 25px;
+    background-color: #075E54 !important;
+    color: #FFF !important;
+    font-size: 10px !important;
+}
+
+.submit-button:hover {
+    background-color: #FFF !important;
+    color: #075E54 !important;
+}
+
+.edit-btn-container {
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    display: flex;
+    margin-left: -20px;
+    left: 0px
+}
+
+.edit-btn-container .icon {
+    font-size: 20px;
+    /* padding: 5px; */
+    background-color: #ddd;
+    color: #075E54;
+    border-radius: 2px;
+    outline-width: 0px;
+}
+
+.switch {
+    cursor: pointer !important;
+}
+
+.pie-chart-card {
+    height: fit-content;
+    margin-left: 15px;
+    margin-right: 15px
+}
+
+.pie-chart-card .body {
+    display: flex;
+    padding: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px
+}
+
+.pie-chart-card .indicator-wrapper {
+    display: flex;
+    margin: 15px;
+    color: #333
+}
+
+.null-avatar-container {
+    height: 100px;
+    width: 100px;
+    background-color: #000;
+    display: flex;
+}
+
+.null-avatar {
+    height: 100px;
+    width: 100px;
+    background-color: #075E54;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #fff;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.info-container {
+    display: flex;
+    margin-top: 20px;
+}
+
+.info-container .column {
+    width: fit-content;
+    padding: 0px;
+    margin: 10px;
+}
+
+.info-container .column .title {
+    font-size: 12px;
+    color: #555;
+    margin-bottom: 20px;
+    text-align: start;
+}
+
+.info-container .column .title .info {
+    font-size: 13px;
+    color: #333;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: row;
+}
+
+.toggle-label {
+    font-size: 13px;
+    font-family: Poppins;
+}
+
+.margin-top-15 {
+    margin-top: 15px;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.width-fit {
+    width: fit-content !important;
+}
+
+.margin-b-0 {
+    margin-bottom: 0px;
+}
+
+
+/* profile pic css */
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+    /* background-color: #eee; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.image {
+    position: relative !important;
+    height: 100px;
+    width: 100px;
+    display: block;
+    font-weight: bold;
+    color: #fff;
+    font-size: 24px;
+    border-radius: 5px;
+    background-color: #075E54;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 60px;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 15px;
+    right: 0;
+    height: 100px;
+    width: 100px;
+    opacity: 0;
+    transition: .3s ease;
+    background-color: #00000077;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container:hover .overlay {
+    opacity: 1;
+}
+
+.icon {
+    color: white;
+    font-size: 14px;
+    /* transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%); */
+    text-align: center;
+}
+
+.fa-user:hover {
+    color: #eee;
+}
+
+.profile-pic-popup-content {
+    display: flex;
+    background-color: #fff;
+    align-items: center;
+    justify-content: space-around
+}
+
+.profile-pic-popup-content .popup-btn {
+    color: #075E54;
+    padding: 5px;
+    outline-width: 0px;
+    font-size: 16px !important;
+}
+
+.profile-edit-icon {
+    position: absolute;
+    bottom: 5px;
+    border-radius: 100px;
+    right: 35px;
+    color: #075E54;
+    background-color: #FFF;
+    outline-width: 0px
+}

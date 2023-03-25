@@ -1,0 +1,219 @@
+.steps-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: #ffffff;
+    border: 1px solid #e1e8f3;
+    border-radius: 5px;
+    /* padding: 10px !important; */
+}
+
+.category-container {
+    margin: 15px
+}
+
+.category-container .category {
+    display: flex;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 5PX;
+}
+
+.category-container .category:hover {
+    background-color: #eee;
+}
+
+.category-container .title {
+    font-weight: bold;
+    /* margin: 5px; */
+    margin-bottom: 10px;
+    font-size: 13px
+}
+
+.category-container .radio-btn {
+    height: fit-content;
+    padding: 2px;
+    margin-right: 5px;
+    color: #075E54
+}
+
+.category-title {
+    font-size: 13px;
+    cursor: pointer;
+    margin-top: 2px
+}
+
+.category-description {
+    font-size: 12px;
+    color: #777
+}
+
+.next-btn {
+    height: 30px !important;
+    width: 80px;
+    background-color: #075E54 !important;
+    color: #FFF !important;
+    font-size: 13px !important;
+    text-transform: none !important;
+    margin-right: 10px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+.add-sample-btn {
+    height: 30px !important;
+    background-color: #FFF !important;
+    color: #075E54 !important;
+    font-size: 13px !important;
+    text-transform: none !important;
+    margin-right: 10px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    border: 1px solid #075E54 !important;
+}
+
+.add-btn {
+    width: 100px;
+    background-color: #fff !important;
+    border: solid 0px #555 !important;
+    color: #555 !important;
+    font-size: 13x !important;
+    text-transform: none !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    border: 1px solid #555 !important;
+}
+
+.add-btn:hover {
+    background-color: #eee !important;
+}
+
+.category-container .error {
+    font-size: 10px;
+    color: #d32f2f;
+}
+
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: 10px !important;
+}
+
+.css-uob957-MuiListSubheader-root {
+    line-height: 30px !important;
+    font-size: 14px;
+    font-weight: 700 !important;
+    font-style: italic;
+    width: 100%;
+}
+
+.kiHXWb {
+    height: 36px !important;
+    border: dashed 1px #075E54 !important;
+}
+
+.MuiOutlinedInput-multiline {
+    padding: 10px !important;
+}
+
+.add-variable-btn {
+    background-color: #fff !important;
+    border: solid 0px #555 !important;
+    color: #555 !important;
+    font-size: 13x !important;
+    text-transform: none !important;
+    margin-left: 15px !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+
+.add-variable-btn:hover {
+    background-color: #eee !important;
+}
+
+.body-icon-btn-wrapper {
+    padding: 0px;
+    margin-right: 15px;
+}
+
+.body-icon-btn {
+    color: #555;
+    font-size: 18px !important;
+    height: 28px !important;
+    width: 28px !important;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.body-icon-btn:hover {
+    background-color: #eee !important;
+}
+
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root {
+    padding: 0px 5px 0px 5px !important;
+    background-color: #FFF !important;
+    top: -5px !important
+}
+
+.css-1in441m {
+    display: none !important;
+}
+
+.image-bg {
+    display: flex;
+    height: 120px;
+    width: 80px;
+    background-color: #ccd0d5;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    min-width: 230px;
+    background-image: url('https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/NztUdBQHuX5.png');
+    margin-bottom: 5px;
+}
+
+.video-bg {
+    display: flex;
+    height: 120px;
+    width: 80px;
+    background-color: #ccd0d5;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    min-width: 230px;
+    background-image: url('https://static.xx.fbcdn.net/rsrc.php/v3/yY/r/3ivk5HMHKDt.png');
+    margin-bottom: 5px;
+}
+
+.doc-bg {
+    display: flex;
+    height: 120px;
+    width: 80px;
+    background-color: #ccd0d5;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    min-width: 230px;
+    background-image: url('https://static.xx.fbcdn.net/rsrc.php/v3/yV/r/FOtyeo41YsA.png');
+    margin-bottom: 5px;
+}
+
+.css-b7k0tb-MuiAutocomplete-listbox .MuiAutocomplete-option {
+    padding-top: 3px;
+    font-size: 12px;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+    top: -4px !important;
+    font-size: 14px !important;
+}
+
+/* .MuiButtonBase-root {
+    display: flex !important;
+    margin: 2px 2px 2px 5px !important;
+    justify-content: start !important;
+} */

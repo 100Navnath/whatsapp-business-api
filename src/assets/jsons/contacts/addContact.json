@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "firstName": "Aiden",
+    "lastName": "Chavez",
+    "countryCode": "+91",
+    "phoneNo": "9876543210",
+    "secondaryPhoneNo": "9876543210",
+    "email": "email.email@email.com",
+    "isWhatsAppNo": false
+}

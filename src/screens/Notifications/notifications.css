@@ -1,0 +1,20 @@
+.notifications-wrapper {
+    height: 100%;
+    min-height: fit-content;
+    /* padding: 10px; */
+    background-color: #eaeef7;
+}
+
+.shadow-sm {
+    box-shadow: 0 0.275rem 0.75rem -0.0625rem rgb(19 16 34 / 6%), 0 0.125rem 0.4rem -0.0625rem rgb(19 16 34 / 3%) !important;
+}
+
+.mark-all-as-read-btn {
+    height: 30px;
+    width: 150px;
+    background-color: #1273eb;
+    color: #FFF;
+    font-size: 12px !important;
+    outline-width: 0px;
+    margin-right: 30px !important
+}

@@ -1,0 +1,10 @@
+{
+    "countryCode": "+91",
+    "contactNumber": "9876543210",
+    "card": {
+        "id": 1,
+        "cardNumber": "1234567890123456",
+        "nameOnCard": "Fname Lname",
+        "expiry": "1658840207855"
+    }
+}

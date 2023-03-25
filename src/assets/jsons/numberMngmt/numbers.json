@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "number": "+91 9876543210",
+        "country": "United States",
+        "state": "New York",
+        "purchaseDate": "1660892492811",
+        "monthlyCost": "99$",
+        "assignedTo": [
+            {
+                "name": "Fname Lname"
+            },
+            {
+                "name": "Fname Lname"
+            },
+            {
+                "name": "Fname Lname"
+            },
+            {
+                "name": "Fname Lname"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "number": "+91 9876543210",
+        "country": "United States",
+        "state": "New York",
+        "purchaseDate": "1660892492811",
+        "monthlyCost": "99$",
+        "assignedTo": [
+            {
+                "name": "Fname Lname"
+            },
+            {
+                "name": "Fname Lname"
+            },
+            {
+                "name": "Fname Lname"
+            },
+            {
+                "name": "Fname Lname"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "number": "+91 9876543210",
+        "country": "United States",
+        "state": "New York",
+        "purchaseDate": "1660892492811",
+        "monthlyCost": "99$",
+        "assignedTo": [
+            {
+                "name": "Fname Lname"
+            },
+            {
+                "name": "Fname Lname"
+            },
+            {
+                "name": "Fname Lname"
+            },
+            {
+                "name": "Fname Lname"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "number": "+91 9876543210",
+        "country": "United States",
+        "state": "New York",
+        "purchaseDate": "1660892492811",
+        "monthlyCost": "99$",
+        "assignedTo": [
+            {
+                "name": "Fname Lname"
+            },
+            {
+                "name": "Fname Lname"
+            },
+            {
+                "name": "Fname Lname"
+            },
+            {
+                "name": "Fname Lname"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "number": "+91 9876543210",
+        "country": "United States",
+        "state": "New York",
+        "purchaseDate": "1660892492811",
+        "monthlyCost": "99$",
+        "assignedTo": [
+            {
+                "name": "Fname Lname"
+            },
+            {
+                "name": "Fname Lname"
+            },
+            {
+                "name": "Fname Lname"
+            },
+            {
+                "name": "Fname Lname"
+            }
+        ]
+    }
+]

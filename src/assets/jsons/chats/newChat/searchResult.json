@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "countryCode": "+91",
+        "phoneNumber": "9876530001"
+    },
+    {
+        "id": 2,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "countryCode": "+91",
+        "phoneNumber": "98765430002"
+    },
+    {
+        "id": 3,
+        "firstName": "Fname",
+        "lastName": "Lname",
+        "countryCode": "+91",
+        "phoneNumber": "9876540003"
+    }
+]

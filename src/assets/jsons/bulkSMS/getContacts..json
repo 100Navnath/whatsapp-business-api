@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "firstName": "Navnath",
+        "lastName": "Phapale",
+        "countryCode": "+91",
+        "phoneNo": "9876543210",
+        "secondaryContact": "9876543210",
+        "email": "email.email@email.com",
+        "isOpted": false
+    },
+    {
+        "id": 2,
+        "firstName": "Navnath",
+        "lastName": "Phapale",
+        "countryCode": "+91",
+        "phoneNo": "9876543210",
+        "secondaryContact": "9876543210",
+        "email": "email.email@email.com",
+        "isOpted": false
+    },
+    {
+        "id": 3,
+        "firstName": "Navnath",
+        "lastName": "Phapale",
+        "countryCode": "+91",
+        "phoneNo": "9876543210",
+        "secondaryContact": "9876543210",
+        "email": "email.email@email.com",
+        "isOpted": false
+    },
+    {
+        "id": 4,
+        "firstName": "Navnath",
+        "lastName": "Phapale",
+        "countryCode": "+91",
+        "phoneNo": "9876543210",
+        "secondaryContact": "9876543210",
+        "email": "email.email@email.com",
+        "isOpted": false
+    },
+    {
+        "id": 5,
+        "firstName": "Navnath",
+        "lastName": "Phapale",
+        "countryCode": "+91",
+        "phoneNo": "9876543210",
+        "secondaryContact": "9876543210",
+        "email": "email.email@email.com",
+        "isOpted": false
+    },
+    {
+        "id": 6,
+        "firstName": "Navnath",
+        "lastName": "Phapale",
+        "countryCode": "+91",
+        "phoneNo": "9876543210",
+        "secondaryContact": "9876543210",
+        "email": "email.email@email.com",
+        "isOpted": false
+    },
+    {
+        "id": 7,
+        "firstName": "Navnath",
+        "lastName": "Phapale",
+        "countryCode": "+91",
+        "phoneNo": "9876543210",
+        "secondaryContact": "9876543210",
+        "email": "email.email@email.com",
+        "isOpted": false
+    }
+]

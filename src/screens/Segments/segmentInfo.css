@@ -1,0 +1,39 @@
+.segment-info-wrapper {
+    height: 100%;
+    padding: 10px;
+    background-color: #f5f8fd;
+}
+
+.segment-info-wrapper .submit-button {
+    height: 30px;
+    background-color: #075E54;
+    color: #FFF;
+    font-size: 10px;
+    outline-width: 0px;
+}
+
+.segment-info-wrapper .delete-button {
+    height: 30px;
+    background-color: #fe5044;
+    color: #FFF;
+    font-size: 10px;
+    outline-width: 0px;
+}
+
+.segment-info-wrapper .delete-button:hover {
+    color: #fe5044;
+}
+
+.segment-info-wrapper .create-segment-button {
+    height: 30px;
+    background-color: #075E54;
+    color: #FFF;
+    font-size: 10px;
+    outline-width: 0px;
+    font-weight: 500;
+    margin-right: 15px;
+}
+
+.segment-info-wrapper .create-segment-button:hover {
+    background-color: #075E54;
+}

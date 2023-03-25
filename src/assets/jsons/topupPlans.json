@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "credits": 1500,
+        "price": 99.00,
+        "validTill": "No Expiration"
+    },
+    {
+        "id": 2,
+        "credits": 3200,
+        "price": 190.00,
+        "validTill": "No Expiration"
+    },
+    {
+        "id": 3,
+        "credits": 7000,
+        "price": 250.00,
+        "validTill": "No Expiration"
+    },
+    {
+        "id": 4,
+        "credits": 10000,
+        "price": 350.00,
+        "validTill": "No Expiration"
+    }
+]
